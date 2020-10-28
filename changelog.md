@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.1] - 2020-10-28
+- Minor bug fixes - listen to 'input' event for search custom controllers
+
 ## [1.1.0] - 2020-03-04
 - Added custom events 'filter-selection-updated' and 'update-filter-results'
 - New options for custom controllers type (e.g., input range/number)
