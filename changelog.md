@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.2] - 2021-09-10
+- Updated to be compatible with the new CodyFrame 3 grid system
+
 ## [1.1.1] - 2020-10-28
 - Minor bug fixes - listen to 'input' event for search custom controllers
 
